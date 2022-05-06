@@ -29,7 +29,7 @@ portfolio: https://brennanbrown.ca
 email: mail@brennanbrown.ca
 
 # Build Settings
-theme: jekyll-theme-tactile
+theme: null
 plugins:
   - jekyll-feed
   - jekyll-sitemap
