@@ -41,7 +41,8 @@
 
 ## About The Project
 
-**Enjoyment Work** is an academic / research-focused theme that provides extensive features for note-taking and personal growth. It is based off of the [Digital Garden](https://github.com/MaggieAppleton/digital-gardeners) philosophy, which you can read more about on the [**demo site**](https://enjoyment-work.netlify.app)
+**Enjoyment Work**
+HI!
 
 The next step for Enjoyment Work is to properly configure the syntax required to work with [**Obsidian**](https://obsidian.md/), a powerful knowledge base that works on top of a local folder of plain text Markdown files. Which would ultimately allow somebody to turn their Obsidian notes into an online blog by simply using the `_notes` directory.
 
